@@ -1,0 +1,7 @@
+{
+  "name": "FarmaCheck Colombia",
+  "description": "Buscador nacional de medicamentos en Colombia con comparación de precios en tiempo real y asistente farmacéutico con IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
